@@ -1,0 +1,10 @@
+pandas
+scanpy
+matplotlib
+seaborn
+harmonypy
+hdf5plugin
+jupyter
+igraph
+leidenalg
+adjustText
